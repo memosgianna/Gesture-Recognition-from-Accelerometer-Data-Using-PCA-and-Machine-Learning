@@ -92,5 +92,3 @@ Update the database connection settings as needed:
 - For reproducibility, use the provided `requirements.txt` to install dependencies.
 
 ---
-
-Feel free to explore and modify the notebooks to experiment with different preprocessing techniques or machine learning models!
