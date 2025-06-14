@@ -1,0 +1,1 @@
+# Gesture-Recognition-from-Accelerometer-Data-Using-PCA-and-Machine-Learning
